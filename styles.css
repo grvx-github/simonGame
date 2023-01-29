@@ -17,6 +17,19 @@ body {
 
 }
 
+.tbs{
+  padding: 4rem;
+  
+}
+
+.tbs input{
+  line-height: 4;
+}
+
+.row{
+  display: block;
+}
+
 .btn {
   margin: 25px;
   display: inline-block;
